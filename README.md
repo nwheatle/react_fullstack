@@ -10,3 +10,6 @@ steps to run the code
  6. cd ..
  7. npm install
  7. npm start
+ 
+ jelorivera08/react_fullstack
+  ---- Client/src/App.js was modified to use React Functions with Hooks, instead of React Class Components.
